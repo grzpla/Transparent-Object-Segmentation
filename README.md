@@ -1,2 +1,2 @@
-# Transparent-Segmentation
-Transparent Segmentation Using Wavelets Convolutional Neural Network
+# Transparent-Object-Segmentation
+Transparent Object Segmentation Using Wavelets Convolutional Neural Network
